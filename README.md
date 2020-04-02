@@ -1,4 +1,4 @@
-# HumanActivityRecognition
+# HumanActivity and Face Detection 
 This moduel will include two things ( Human activity Recognition + face identification ) in real time
 
 After cloning this repo
