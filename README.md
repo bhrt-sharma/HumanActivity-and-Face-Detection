@@ -10,11 +10,11 @@ The resnet weights on the Kinetics dataset are used in this repo.
       
       HAR+FaceRecognition.ipynb
 
-**To Run only Human Activity Recognition File use command:
+**To Run only Human Activity Recognition File use command:**
 
       python3 Human_activity_Recog.py 
       
-**To Run only Face Detection file, use command:
+**To Run only Face Detection file, use command:**
 
       python3 face_recognition_using_open_cv.py
       
