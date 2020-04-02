@@ -23,9 +23,8 @@ To Run only Face Detection file, use command:
 
 To upload larger file to your repo
 use : 
-      git lfs track "*.mp4"
 
-      git lfs track "*.onnx"
+      git lfs track "*.onnx"  (i.e file type)
 
 Now make sure .gitattributes is tracked:
 
