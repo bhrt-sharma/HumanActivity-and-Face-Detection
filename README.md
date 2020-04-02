@@ -18,7 +18,10 @@ The resnet weights on the Kinetics dataset are used in this repo.
 
       python3 face_recognition_using_open_cv.py
       
-      
+ Then you would get result like
+ 
+ ![](HAR+FaceDetection.png)
+ 
 **Requirements:**
       
       python3
