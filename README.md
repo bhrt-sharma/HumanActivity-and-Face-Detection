@@ -6,6 +6,21 @@ download a video and save that video in the current working directory with the f
 
 For weight file download resnet-34_kinetics.onnx (The resnet weights on the Kinetics dataset).
 
+To Run this Project execute the ipython notebook:
+      
+      HAR+FaceRecognition.ipynb
+
+To Run only Human Activity Recognition File use command:
+
+      python3 Human_activity_Recog.py 
+      
+To Run only Face Detection file, use command:
+
+      python3 face_recognition_using_open_cv.py
+      
+      
+      
+
 To upload larger file to your repo
 use : 
       git lfs track "*.mp4"
